@@ -7,14 +7,7 @@ Gracias por contribuir al proyecto.
 El proyecto utiliza la siguiente estructura de ramas:
 
 - `main` — Versión estable de producción.
-- `develop` — Rama principal de integración.
-- `release` — Preparación de lanzamientos.
-- `team-backend` — Equipo de backend.
-- `team-game-design` — Equipo de diseño de juego.
-- `team-gameplay` — Equipo de jugabilidad.
-- `team-flutter-1` — Equipo de Flutter 1.
-- `team-flutter-2` — Equipo de Flutter 2.
-- `team-ux-ui` — Equipo de UX/UI.
+
 
 ## Reglas de desarrollo
 
